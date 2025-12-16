@@ -32,7 +32,7 @@ Desarrollar una plataforma basada en microservicios que integre mensajería, vid
 
 * Implementar mensajería en tiempo real con Rocket.Chat.
 * Diseñar una arquitectura distribuida y escalable.
-* Integrar autenticación segura mediante JWT / Keycloak.
+* Integrar autenticación segura mediante JWT.
 * Facilitar videollamadas usando Jitsi (JaaS).
 
 ## 🧠 Arquitectura del Sistema
