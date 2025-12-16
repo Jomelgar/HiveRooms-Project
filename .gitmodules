@@ -1,0 +1,9 @@
+[submodule "chat"]
+	path = chat
+	url = https://github.com/Jomelgar/HIveRooms-Chat
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Jomelgar/HiveRooms-Backend
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Jomelgar/HiveRooms-Frontend
